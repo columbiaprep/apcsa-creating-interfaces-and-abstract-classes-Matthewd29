@@ -1,5 +1,5 @@
 // Ryder L
-public class RangeWeapons {
+public class RangeWeapons extends Weapon {
     //  private String name;
     private int range;
     private int damage;

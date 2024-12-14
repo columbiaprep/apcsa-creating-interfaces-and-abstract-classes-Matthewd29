@@ -1,4 +1,4 @@
-public class Stats {
+public class Stats extends Entity{
     private String name;
     private int maxHP;
     private int currentHP;

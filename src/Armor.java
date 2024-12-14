@@ -1,6 +1,6 @@
-public class Armor extends Equipment{
+abstract class Armor extends Equipment{
 
-
+    public int calculateDamageReduction();
 
 
 }

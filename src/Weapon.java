@@ -1,6 +1,7 @@
-public class Weapon extends Equipment{
-
-
-
+public abstract class Weapon extends Equipment{
+    private int diceValue;
+    public int calculateDamage(){
+        return 0;
+    }
 
 }
